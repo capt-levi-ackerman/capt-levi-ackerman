@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **officialsatyam2022@gmail.com**
 
-- ⚡ Fun fact **Linear Search on Sorted Array.**
+- ⚡ Fun fact **Linear Search on Sorted Array is the Dumbest mistake I ever did!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
