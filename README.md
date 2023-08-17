@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Problem Solving Skills**
 
-- 🌱 I’m currently learning **MongoDB, Express.JS, React.JS, Node.JS**
+- 🌱 I’m currently learning **Python and Machine Learning**
 
-- 👯 I’m looking to collaborate on **MERN Projects**
+- 👯 I’m looking to collaborate on **ML Projects**
 
 - 📫 How to reach me **officialsatyam2022@gmail.com**
 
